@@ -7,13 +7,13 @@ header, footer{ background-color: #252f33; color: #ceeffc; text-align: center; f
 main {background-color: #dbf7d6;}
 .primeiroparagrafo{
     text-align: justify;
-    font-size: 18px;
+    font-size: 20px;
     border: 2px solid black;
      padding: 10px;
      margin: 10px 40px 80px 15px;}
 .segundoparagrafo{
     text-align: justify;
-    font-size: 18px;
+    font-size: 20px;
     border: 2px solid black; 
     padding: 10px;
     margin: 10px 40px 80px 15px;}
